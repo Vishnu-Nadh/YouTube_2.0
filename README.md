@@ -22,6 +22,7 @@ Clone the project
 
 ```bash
   git clone https://github.com/Vishnu-Nadh/YouTube_2.0.git
+```
 
 Go to the project directory
 
