@@ -6,7 +6,6 @@ A clone of youtube made using react js and meterial UI. The application has the 
 
 Website Demo
 
-
 [Youtube2.0](./demo/demo.png)
 
 <img src="./demo/demo.png" alt="screenshot"/>
@@ -14,7 +13,6 @@ Website Demo
 ## Tech Stack
 
 **Client:** React, TailwindCSS
-
 
 ## Run Locally
 
@@ -56,7 +54,6 @@ Start the server
 
 - Full stack developer...
 - Avid Learner...
-
 
 ## 🔗 Links
 
